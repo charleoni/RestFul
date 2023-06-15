@@ -1,0 +1,13 @@
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.deps.json
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
