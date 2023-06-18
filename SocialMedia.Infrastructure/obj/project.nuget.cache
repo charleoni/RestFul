@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JITVED2nYbd/bhV/1BCTgHo3L+mhXE5iBFJKUjPn92+h82tjjf0bcxgeQ8tL/LbDPWWMoc4zQhoghhbXFTJylw==",
+  "dgSpecHash": "c5ImkSstzgOr/OdHZmyy+wSK1g7apM65E5Y7XNY3KB7TtJ+R3+E0Gp0ZP66pG59tn/RbOF3UQwzxlC1kzMJIQg==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\C#\\RestFul\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\usrdes10\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\usrdes10\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\usrdes10\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\usrdes10\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\usrdes10\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
