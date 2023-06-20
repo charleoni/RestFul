@@ -87,6 +87,7 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\netco
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTests.csproj.AssemblyReference.cache
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTests.AssemblyInfoInputs.cache
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.IntegrationTests\obj\Debug\netcoreapp3.1\SocialMedia.IntegrationTests.AssemblyInfo.cs

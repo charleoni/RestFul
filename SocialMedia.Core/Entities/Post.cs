@@ -5,16 +5,15 @@ using System.Collections.Generic;
 // If you have enabled NRTs for your project, then un-comment the following line:
 // #nullable disable
 
-namespace SocialMedia.Core.Entities
+namespace SocialMedia.Core.Entities 
 {
-    public partial class Post
+    public partial class Post : BaseEntity
     {
         public Post()
         {
             Comments = new HashSet<Comment>();
         }
 
-        public int PostId { get; set; }
         public int UserId { get; set; }
         public DateTime Date { get; set; }
         public string Description { get; set; }

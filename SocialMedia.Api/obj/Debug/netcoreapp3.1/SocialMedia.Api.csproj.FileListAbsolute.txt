@@ -6,9 +6,17 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Soci
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.dev.json
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
@@ -21,6 +29,7 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Micr
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
@@ -32,6 +41,7 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Micr
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
@@ -55,6 +65,7 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\Soci
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfoInputs.cache
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfo.cs
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.Manifest.cache
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.xml
@@ -64,14 +75,3 @@ D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\Soci
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.dll
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.pdb
 D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
-D:\Proyectos\C#\RestFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

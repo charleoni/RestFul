@@ -10,9 +10,9 @@ namespace SocialMedia.Infrastructure.Data.Configurations
         {
             builder.ToTable("Publicacion");
 
-            builder.HasKey(e => e.PostId);
+            builder.HasKey(e => e.Id);
 
-            builder.Property(e => e.PostId)
+            builder.Property(e => e.Id)
                 .HasColumnName("IdPublicacion");
 
             builder.Property(e => e.UserId)
@@ -35,7 +35,7 @@ namespace SocialMedia.Infrastructure.Data.Configurations
 
             builder.HasOne(d => d.User)
                 .WithMany(p => p.Posts)
-                .HasForeignKey(d => d.UserId)
+                .HasForeignKey(d => d.Id)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Publicacion_Usuario");
         }
